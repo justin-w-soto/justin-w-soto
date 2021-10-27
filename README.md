@@ -1,6 +1,4 @@
 ### A little about me 
-Software Developer || Science enthusiast 
-
 - CSS addict 
 - Photography nerd
 - plant lover
