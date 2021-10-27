@@ -1,8 +1,8 @@
 ### A little about me 
 - CSS addict 
 - Photography nerd
-- plant lover
-- sandwich eater
+- Plant Lover
+- Sandwich Eater
 - 📫 Send me a message:
 -  https://www.linkedin.com/in/justinwsoto/ 
 -  justinwsoto@gmail.com
