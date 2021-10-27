@@ -1,7 +1,10 @@
 ### A little about me 
 Software Developer || Science enthusiast 
 
-- 🌿 📸 🌮 I love ecology, photography, and good food
+- CSS addict 
+- Photography nerd
+- plant lover
+- sandwich eater
 - 📫 Send me a message:
 -  https://www.linkedin.com/in/justinwsoto/ 
 -  justinwsoto@gmail.com
