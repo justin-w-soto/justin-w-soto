@@ -1,6 +1,6 @@
 ### A little about me 
 - CSS addict 
-- Photography nerd
+- Photography Nerd
 - Plant Lover
 - Sandwich Eater
 - 📫 Send me a message:
