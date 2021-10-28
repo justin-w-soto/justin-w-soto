@@ -1,5 +1,5 @@
 # A little about me 
-### I'm a front end leaning software developer with a love for good design
+### I'm a front end leaning software developer focused on accessibility and good design
 ### Languages I speak: Javascript, HTML, CSS
 ### Frameworks/Libraries I love: React, Express, NodeJS
 ### My Toolbox: PostgreSQL, Jest, Git, GitHub, Netlify, Heroku, VS-Code, Postman, 
