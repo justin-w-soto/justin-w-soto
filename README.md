@@ -1,5 +1,6 @@
 
-![banner](https://user-images.githubusercontent.com/83792867/139303121-f099d9b4-9cad-49d2-a888-bf5786618060.jpg)
+![banner2](https://user-images.githubusercontent.com/83792867/139308526-1a42331c-f753-43b4-bad3-d92ed05ea066.jpg)
+
 
 # A little about me 
 ### I'm a front end leaning software developer focused on accessibility and good design
