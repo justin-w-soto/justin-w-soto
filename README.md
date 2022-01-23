@@ -3,17 +3,15 @@
 
 
 # A little about me 
-### I'm a front end leaning software developer focused on accessibility and good design
+### I'm a front end leaning software developer focused on accessibility and design
 ### Languages I speak: Javascript, HTML, CSS
 ### Frameworks/Libraries I love: React, Express, Node.js
-### My Toolbox: PostgreSQL, Jest, Git, GitHub, Netlify, Heroku, VS-Code, Postman, 
-### Beekeeper, Thunderclient, R, ArcGIS, Photoshop, Lightroom, InDesign, Canva, Zoom
-### I'm currently learning: Figma, Bootstrap, Sketch, ThreeJS, SaSS
+### My Toolbox: PostgreSQL, Jest, Git, GitHub, Netlify, Heroku, VS-Code, Postman, Figma,
+### Beekeeper, Thunderclient, SASS, Photoshop, Lightroom, InDesign, Canva, Zoom
 ### Fun facts:
 - CSS addict 
 - Photographer & Printmaker
-- Plant Lover
-- Sandwich Eater      
+- Plant Lover   
 - 📫 Send me a message:
 -  https://www.linkedin.com/in/justinwsoto/ 
 -  justinwsoto@gmail.com
