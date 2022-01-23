@@ -5,9 +5,10 @@
 # A little about me 
 ### I'm a front end leaning software developer focused on accessibility and design
 ### Languages I speak: Javascript, HTML, CSS
-### Frameworks/Libraries I love: React, Express, Node.js
-### My Toolbox: PostgreSQL, Jest, Git, GitHub, Netlify, Heroku, VS-Code, Postman, Figma,
-### Beekeeper, Thunderclient, SASS, Photoshop, Lightroom, InDesign, Canva, Zoom
+### Frameworks/Libraries: React, Express, Node.js
+### My Toolbox: PostgreSQL, Jest, Git, GitHub, Netlify,
+### Heroku, VS-Code, Postman, Figma, InDesign, Canva, Zoom
+### Beekeeper, Thunderclient, SASS, Photoshop, Lightroom, 
 ### Fun facts:
 - CSS addict 
 - Photographer & Printmaker
