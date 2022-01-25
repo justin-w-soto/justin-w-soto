@@ -7,7 +7,7 @@
 ### Languages I speak: Javascript, HTML, CSS
 ### Frameworks/Libraries: React, Express, Node.js
 ### My Toolbox: PostgreSQL, Jest, Git, GitHub, Netlify,
-### Heroku, VS-Code, Postman, Figma, InDesign, Canva, Zoom
+### Heroku, VS-Code, Postman, Figma, InDesign, Canva, Zoom,
 ### Beekeeper, Thunderclient, SASS, Photoshop, Lightroom, 
 ### Fun facts:
 - CSS addict 
