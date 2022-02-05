@@ -1,5 +1,5 @@
 
-![JW Soto (1)](https://user-images.githubusercontent.com/83792867/152656883-05a74022-a949-415b-adb5-0a88b5557984.png)
+![JW Soto (2)](https://user-images.githubusercontent.com/83792867/152657085-df99615a-3828-486f-ad09-e07145ea0e51.png)
 
 
 
