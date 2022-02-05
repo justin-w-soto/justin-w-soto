@@ -1,5 +1,7 @@
 
-![banner2](https://user-images.githubusercontent.com/83792867/139308526-1a42331c-f753-43b4-bad3-d92ed05ea066.jpg)
+![JW Soto (1)](https://user-images.githubusercontent.com/83792867/152656749-429ad2ca-655c-4418-a45d-4feaa6887b96.png)
+
+
 
 
 # A little about me 
