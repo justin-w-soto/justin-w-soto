@@ -1,5 +1,5 @@
+![Black Modern Professional Corporate New LinkedIn Banner](https://user-images.githubusercontent.com/83792867/152657445-7befda21-d75c-4e70-8df0-102eb23ef155.png)
 
-![JW Soto (2)](https://user-images.githubusercontent.com/83792867/152657085-df99615a-3828-486f-ad09-e07145ea0e51.png)
 
 
 
