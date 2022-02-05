@@ -1,4 +1,5 @@
-![Black Modern Professional Corporate New LinkedIn Banner](https://user-images.githubusercontent.com/83792867/152657445-7befda21-d75c-4e70-8df0-102eb23ef155.png)
+
+![bannerz](https://user-images.githubusercontent.com/83792867/152657549-3026875a-9089-41e3-b20f-f46d31047bd6.png)
 
 
 
