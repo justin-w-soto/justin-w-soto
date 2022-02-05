@@ -1,6 +1,5 @@
 
-![bannerz](https://user-images.githubusercontent.com/83792867/152657549-3026875a-9089-41e3-b20f-f46d31047bd6.png)
-
+![Orange and Black Furniture Hub LinkedIn Banner](https://user-images.githubusercontent.com/83792867/152658304-8720b10f-ba2a-47eb-8e09-0751d0c7ef53.png)
 
 
 
